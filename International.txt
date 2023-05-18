@@ -1,0 +1,8 @@
+Departure: 2023-05-15, 09:00, New York, AB123----------Arrival: 2023-05-15, 12:00, London, CD456
+Departure: 2023-05-16, 10:30, Paris, EF789----------Arrival: 2023-05-16, 15:45, Rome, GH012
+Departure: 2023-05-17, 08:15, Tokyo, IJ345----------Arrival: 2023-05-17, 19:20, Sydney, KL6
+Departure: 2023-05-18, 14:20, Dubai, MN901----------Arrival: 2023-05-18, 21:30, New York, OP234
+Departure: 2023-05-19, 16:45, London, QR567----------Arrival: 2023-05-19, 06:00, Beijing, ST890
+Departure: 2023-05-20, 11:10, Sydney, UV123----------Arrival: 2023-05-20, 19:55, Los Angeles, WX456
+Departure: 2023-05-21, 13:30, Rome, YZ789----------Arrival: 2023-05-21, 10:40, Dubai, AB012
+Departure: 2023-05-22, 09:20, Beijing, CD345----------Arrival: 2023-05-22, 17:15, Paris, EF678
