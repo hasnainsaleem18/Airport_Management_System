@@ -9,7 +9,6 @@
 #include <fstream>
 
 using namespace std;
-int a;
 
 static const string static_password = "admin321";  //global constant initialized for administrator 
 
