@@ -37,7 +37,7 @@ The **Airport Management System** is a comprehensive application designed to str
 ## Class Diagram
 The class diagram represents the structural design of the Airport Management System. It showcases the relationships between various entities such as employees, flights, passengers, and ticket bookings.
 
-![Class Diagram](./final_class_diagram_2.jpg)  
+![Class Diagram](final_class_diagram 2.jpg)  
 *Figure 1: Class Diagram of Airport Management System*
 
 ---
